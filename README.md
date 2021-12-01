@@ -8,7 +8,6 @@
 
 **Technology Used**: 
 
- - react
- -  figma
- -  bootstrap 5
+ - html
+ - css
  -  javascript
